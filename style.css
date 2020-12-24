@@ -24,7 +24,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ffb91c;
+    background-color: #FFBE2D;
     }
         .header {
     position: fixed;
@@ -43,7 +43,7 @@
     background-color: #ffc45d;
     }
         .header-button:hover {
-    background-color: #ffb91c;
+    background-color: #FFBE2D;
     }
         .pfp {
     margin-top: -5px;
@@ -68,11 +68,11 @@
     border-radius: 5px;
     height: 15px;
     padding: 15px;
-    background-color: #ffb91c;
+    background-color: #FFBE2D;
     color: #EEEEEE;
     }
         .search-bar:hover {
-    background-color: #ffb000;
+    background-color: #ffb91c;
     }
         h {
     font-weight: bold;
