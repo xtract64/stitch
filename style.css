@@ -59,8 +59,9 @@
     background-color: #ffc45d;
     }
         .search-input {
-    width: 50px;
+    width: 100px;
     background-color: transparent;
+    border: 0px solid transparent;
     color: #EEEEEE;
     font-family: arial;
     }
