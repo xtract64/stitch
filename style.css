@@ -58,6 +58,12 @@
     color: white;
     background-color: #ffc45d;
     }
+        .search-input {
+    width: 50px;
+    background-color: transparent;
+    color: #EEEEEE;
+    font-family: arial;
+    }
         .search-bar {
     border-radius: 5px;
     height: 15px;
