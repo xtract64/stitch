@@ -61,7 +61,7 @@
         .search-input {
     width: 100px;
     background-color: transparent;
-    border: 0px solid transparent;
+    outline: none;
     color: #EEEEEE;
     font-family: arial;
     }
