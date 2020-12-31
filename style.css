@@ -50,10 +50,9 @@
     height: 25px;
     border-radius: 5px;
     }
-        .pfp-big {
-    margin-top: -5px;
-    height: 30px;
-    border-radius: 5px;
+        .pfp-banner {
+    height: 50px;
+    border-radius: 10px;
     }
         .button {
     border-radius: 10px;
