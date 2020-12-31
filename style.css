@@ -50,8 +50,10 @@
     height: 25px;
     border-radius: 5px;
     }
-        .big {
-    height: 50px;
+        .pfp-big {
+    margin-top: -5px;
+    height: 25px;
+    border-radius: 5px;
     }
         .button {
     border-radius: 10px;
