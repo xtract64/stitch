@@ -50,6 +50,9 @@
     height: 25px;
     border-radius: 5px;
     }
+        .big {
+    height: 50px;
+    }
         .button {
     border-radius: 10px;
     height: 15px;
