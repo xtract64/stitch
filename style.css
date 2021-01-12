@@ -78,6 +78,14 @@
         .search-bar:hover {
     background-color: #ffb91c;
     }
+    .stitch-button {
+    background-color: #00B8FF;
+    color: white;
+    padding: 12.5px;
+    outline: none;
+    font-weight: bold;
+    border-radius: 10px;
+    }
         h {
     font-weight: bold;
     font-family: arial;
