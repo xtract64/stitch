@@ -105,7 +105,7 @@
                 height:100px;
                 padding:5px;
                 border:none;
-                width:0px;
+                width:99%;
 }
         .anim-button:hover {
                 width:1500px;
