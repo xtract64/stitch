@@ -98,8 +98,8 @@
                 background-color:orange;
                 margin-top:10px;
                 font-size:25px;
+                height:100px;
                 border:none;
-                height:10px;
                 width:5px;
 }
         .anim-button:hover {
