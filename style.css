@@ -94,6 +94,7 @@
     }
         .anim-button {
                 font-family: 'Bebas Neue', cursive;
+                text-align: left !important;
                 transition-duration:0.2s;
                 background-color:orange;
                 margin-top:10px;
