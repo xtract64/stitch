@@ -91,3 +91,16 @@
     font-family: arial;
     position: absolute;
     }
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+        .anim-button {
+                font-family: 'Bebas Neue', cursive;
+                transition-duration:0.2s;
+                background-color:orange;
+                margin-top:10px;
+                font-size:50px;
+                height:10px;
+                width:5px;
+}
+        .anim-button:hover {
+                width:150px;
+}
