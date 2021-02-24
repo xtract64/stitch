@@ -96,7 +96,7 @@
         .anim-button {
                 font-family: 'Bebas Neue', cursive;
                 text-align: left !important;
-                transition-duration:0.4s;
+                transition-duration:1.0s;
                 background-color:#FFCF40;
                 white-space: nowrap;
                 margin-right:10px;
