@@ -98,6 +98,7 @@
                 transition-duration:0.2s;
                 background-color:#FFCF40;
                 white-space: nowrap;
+                margin-right:10px;
                 margin-left:10px;
                 margin-top:10px;
                 font-size:25px;
@@ -107,5 +108,5 @@
                 width:0px;
 }
         .anim-button:hover {
-                width:1250px;
+                width:auto;
 }
