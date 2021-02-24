@@ -100,9 +100,10 @@
                 margin-top:10px;
                 font-size:25px;
                 height:100px;
+                padding:5px;
                 border:none;
-                width:5px;
+                width:0px;
 }
         .anim-button:hover {
-                width:150px;
+                width:750px;
 }
