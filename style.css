@@ -122,11 +122,11 @@
                 width:25%;
 }
         .temp-back {
-                position: absolute;
-                top:8px;
-                left:8px;
-                font-size:18px;
-                color:white;
-                font-weight:bold;
                 text-decoration: none;
+                position: absolute;
+                font-weight:bold;
+                font-size:25px;
+                color:white;
+                left:8px;
+                top:8px;
 }
