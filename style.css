@@ -118,7 +118,25 @@
                 border:none;
                 width:0px;
 }
+        .anim-button-dark {
+                font-family: 'Bebas Neue', cursive;
+                text-align: left !important;
+                transition-duration:0.4s;
+                background-color:#FFCF40;
+                white-space: nowrap;
+                margin-right:10px;
+                margin-left:10px;
+                margin-top:10px;
+                font-size:25px;
+                height:100px;
+                padding:5px;
+                border:none;
+                width:0px;
+}
         .anim-button:hover {
+                width:25%;
+}
+        .anim-button-dark:hover {
                 width:25%;
 }
         .temp-back {
