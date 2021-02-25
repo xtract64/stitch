@@ -118,7 +118,7 @@
                 border:none;
                 width:0px;
 }
-        .anim-button-dark {
+        .anim-button-light {
                 font-family: 'Bebas Neue', cursive;
                 text-align: left !important;
                 transition-duration:0.4s;
@@ -129,6 +129,7 @@
                 margin-top:10px;
                 font-size:25px;
                 height:100px;
+                color:white;
                 padding:5px;
                 border:none;
                 width:0px;
