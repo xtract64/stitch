@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="icon" type="image/png" href=""/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stitch - Share Anything, Carefree</title>
+    <link href="https://anyminordeerpanda.github.io/stitch/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    
+     <div class="banner"><h>Account Settings</h></div>
+     <div class="sub-banner"><h>Appearance</h></div>
+    <div>
+    <form>
+      <button onclick="toggleTheme()" class="anim-button"><p style="margin-left:20px;">Toggle Theme</p></button>
+    </form>
+    </div>
+<script>
+document.body.className = localStorage.getItem('theme')
 
+function toggleTheme() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+   localStorage.setItem('scratchtheme', element.className)
+}
+</script>
+     
+  </body>
+</html>
